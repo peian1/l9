@@ -1,0 +1,130 @@
+<head>
+
+<meta charset="UTF-8">
+
+<title> 960 Exercise</title>
+<link rel="stylesheet" href="css/960.css">
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/text.css">
+<link rel="stylesheet" href="css/my_style.css">
+<style>
+    h1 {
+        font-family:"Arial Black", Gadget, sans-serif;
+        font-size: 40px;
+        color:MediumTurquoise;
+    }
+    h2 {
+        font-family:"Arial Black", Gadget, sans-serif;
+        font-size: 20px;
+        color:MediumSlateBlue;
+    }
+</style>
+
+</head>
+
+<body>
+<div class="container_12 titlesec">
+
+	<div class="grid_8">
+        <br><br>
+		<h1>GTR </h1>
+
+	</div>
+	<div class="grid_3">
+	</div>
+    <br><br>
+	<div class="grid_1 nav Home">
+	<a href="https://www.nissanusa.com/vehicles/sports-cars/gt-r.html"><p>Home</p></a>
+	</div>
+
+	<div class="grid_1 nav Models">
+	    	<a href="https://www.nissanusa.com/shopping-tools/build-price/sports-cars/gt-r/2021/dual-clutch-6-speed-transmission/29102:BABXo:AqsNgPk/exterior"><p>Models</p></a>
+
+	</div>
+
+	<div class="grid_1 nav Design">
+	    <a href="https://www.nissanusa.com/experience-nissan/news-and-events/evolution-from-skyline-to-gt-r.html"><p>Design</p></a>
+
+	</div>
+
+	
+	
+</div>
+
+<br><br>
+
+
+<div class="container_12">
+	<div class="grid_12">
+			<img src="https://wieck-nissanao-production.s3.amazonaws.com/photos/0f1f7c57cbc0c093ecd008d5c8f973bd2c9c8bb5/preview-928x522.jpg" width="900" height="500" border="0">
+	</div>
+</div>
+<hr>
+
+
+<div class="container_12">
+	<h2>GTR R35 </h2>
+	<hr>
+	<div class="grid_3 tool">
+			<img src="https://i.ytimg.com/vi/FmokYx1O9xI/sddefault.jpg" width="300" height="230" border="0">
+	</div>
+
+	<div class="grid_3 tool">
+			<img src="https://www.nissanusa.com/content/dam/Nissan/us/vehicles/gtr/2021/overview/2021-nissan-gtr-supercar.jpg" width="300" height="230" border="0">
+	</div>
+
+	<div class="grid_3 tool">
+			<img src="https://www.carscoops.com/wp-content/uploads/2019/12/nissan-gt-r-liberty-walk-tuning-0.jpg" width="300" height="230" border="0">
+	</div>
+
+	<div class="grid_3 tool">
+			<img src="https://cdn.motor1.com/images/mgl/qNALJ/s3/nissan-gt-r50-by-italdesign.jpg" width="300" height="230" border="0">
+	</div>
+	<div class="grid_3 tool">
+			<img src="https://s1.cdn.autoevolution.com/images/news/gallery/2020-nissan-gt-r-nismo-gets-r34-face-swap-looks-like-it-s-new_2.jpg" width="300" height="230" border="0">
+	</div>
+	<div class="grid_3 tool">
+			<img src="https://carwow-uk-wp-0.imgix.net/nissan-gt-r-36-3-rendering-final-lead.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=750" width="300" height="230" border="0">
+	</div>
+	<div class="grid_3 tool">
+			<img src="https://1umhfv4anmt642s3e11sxqst-wpengine.netdna-ssl.com/wp-content/uploads/2014/10/XXD19-SW-Website-Thumbnails-GTR.jpg" width="300" height="230" border="0">
+	</div>
+	<div class="grid_3 tool">
+			<img src="https://www.litchfieldmotors.com/wp-content/uploads/GTR-upgrades3.jpg" width="300" height="230" border="0">
+	</div>
+</div>
+
+<br><br>
+
+<hr>
+<footer>
+    <h2>Best GTR</h2>
+<div class="container_12">
+
+	<div class="grid_3 champ">
+			<img src="https://www.carshowroom.com.au/media/21501656/2018-nissan-gt-r-concept-gt-r50-by-italdesign-01-0818.jpg.ashx?w=728&h=410&mode=crop&watermark=csr&format=jpg&quality=74&progressive=true&encoder=freeimage" width="200" height="150" border="0">
+			<span>
+			<img src="https://cdn-1.motorsport.com/images/amp/0RrkJpr0/s6/nissan-gt-r-nismo-gt500-1.jpg" width="300" height="200" border="0">
+		</span>
+	</div>
+
+	<div class="grid_3 champ">
+			<img src="https://img.drivemag.net/media/default/0001/97/2021-nissan-gt-r-7068-default-large.jpeg" width="200" height="150" border="0">
+			<span>
+			<img src="https://i.ytimg.com/vi/YH4H5thaawI/maxresdefault.jpg" width="300" height="200" border="0">
+		</span>
+	</div>
+
+	<div class="grid_3 champ">
+			<img src="https://i.pinimg.com/originals/93/8c/4c/938c4c05f2203c67c12f0a4dfaad0036.jpg" width="200" height="150" border="0">
+			<span>
+			<img src="https://libertywalk.co.jp/wp-content/uploads/slider49/LBWORKS_NISSAN_GT-R_TYPE2_0.jpeg" width="300" height="200" border="0">
+		</span>
+	</div>
+
+</div>	
+</footer>
+
+</body>
+
+</html>
